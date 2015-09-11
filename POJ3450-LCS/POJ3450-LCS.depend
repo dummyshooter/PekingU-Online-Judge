@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1316786116 source:e:\database\acm\code library\poj3450-lcs\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

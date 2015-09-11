@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1312288763 source:c:\users\administrator\desktop\acm_dummyshooter\poj1811-primetest\main.cpp
+	<iostream>
+	<math.h>
+

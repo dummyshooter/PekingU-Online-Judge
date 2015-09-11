@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1324800182 source:e:\database\acm\code library\pku oj\poj3167-kmp_variant\main.cpp
+	<iostream>
+	<cstdio>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1323274754 source:e:\database\acm\code library\pku oj\poj2195-km algorithm\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

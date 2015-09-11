@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1313636074 source:c:\users\administrator\desktop\acm_dummyshooter\poj2063-investment\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

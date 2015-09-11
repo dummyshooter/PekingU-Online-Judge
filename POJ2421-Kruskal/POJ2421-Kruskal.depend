@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1318578779 source:e:\database\acm\code library\pku oj\poj2421-kruskal\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

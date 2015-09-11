@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1318502977 source:e:\database\acm\code library\pku oj\poj2376-greedy\main.cpp
+	<cstdio>
+	<algorithm>
+

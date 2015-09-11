@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1312773980 source:c:\users\administrator\desktop\acm_dummyshooter\poj3013-bigchrismastree\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+

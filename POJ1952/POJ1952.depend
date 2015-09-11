@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1323616803 source:e:\database\acm\code library\pku oj\poj1952\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1362804226 source:e:\database\acm\code library\pku oj\poj1878\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<vector>
+	<queue>
+	<stack>
+

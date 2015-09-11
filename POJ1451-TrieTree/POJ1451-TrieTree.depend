@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1325056869 source:e:\database\acm\code library\pku oj\poj1451-trietree\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<queue>
+	<vector>
+

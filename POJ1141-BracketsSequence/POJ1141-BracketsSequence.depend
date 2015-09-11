@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1311771081 source:c:\users\administrator\desktop\acm_dummyshooter\poj1141-bracketssequence\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+
